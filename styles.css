@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+    font-family: Inter', sans-serif;
+}
+
+
+
+.bg-image{
+    object-fit: cover;
+    filter:brightness(0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
