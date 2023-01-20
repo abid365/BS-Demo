@@ -6,6 +6,13 @@
     font-family: Inter', sans-serif;
 }
 
+/* @media screen and (max-width=576px) {
+    
+    .container{
+        background-color: black;
+    }
+} */
+
 
 
 .bg-image{
@@ -16,6 +23,8 @@
     left: 0;
     z-index: -1;
 }
+
+
 
 .poke{
     object-fit: cover;
